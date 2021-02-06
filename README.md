@@ -54,6 +54,9 @@ The markdown report also has `Code` buttons, which let you see my workings behin
 <img src = "images/code_button.png">
 
 
+There is a summary of some of the key facts and figures at the foot of the report, along with a list of references:
+
+<img src = "images/summary_refs.png">
 
 
 
