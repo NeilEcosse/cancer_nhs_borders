@@ -23,7 +23,7 @@ After investigating the data, I created a markdown file containing my key findin
 
 * A report to help the recipient gain better understanding of the incidence of cancer in the NHS Borders area
 
-* For the report to be 1-2 pages long
+* The report to be 1-2 pages long
 
 * To give a 5 minute presentation on the report
 
