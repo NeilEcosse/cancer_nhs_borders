@@ -201,7 +201,7 @@ For the NHS Borders region during the period 1994-2018:
   
   * The number of cancer cases recorded has also tended to increase over time - the lowest annual total was 518 in 1994, and the highest was 912 in 2017
   
-  * The five cancer sites with the most cases were:
+  * 41 types of cancer were recorded; the five cancer sites with the most cases were:
   
     * Non-melanoma skin cancer
     
