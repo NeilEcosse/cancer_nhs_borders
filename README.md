@@ -10,6 +10,26 @@ This project uses publicly available data to give a high-level insight into the 
 
 
 
+
+## Report Contents 
+
+The R notebook **Report.rmd** in the **analysis** folder contains the code, analysis and data visualisations; I knitted this to HTML, and used this version, **Report.html**, for my presentation. 
+
+The report looks at four  questions:
+
+
+<img src = "images/population_over_time.png">
+
+<img src = "images/number_of_cancer_cases_over_time.png">
+
+<img src = "images/cancer_types.png">
+
+<img src = "images/crude_vs_age_standardised_rate.png">
+
+
+<img src = "images/summary_refs.png">
+
+
 ## Process Methodology
 
 I imported csv data files available at  *www.opendata.nhs.scot* and *www.nrscotland.gov.uk* into an R Studio project, and created an R script to clean and join them. I also did some research on general population trands in the area, and on the *age-standardised* incidence rates available in the report.
@@ -32,26 +52,6 @@ After investigating the data, I created a markdown file containing my key findin
 ## Packages Used
 
 The main packages used for cleaning and analysis were **tidyverse** and **janitor**. I then produced data visualisations using  **ggplot**.
-
-
-## Report Contents 
-
-The R notebook **Report.rmd** in the **analysis** folder contains the code, analysis and data visualisations; I knitted this to HTML, and used this version, **Report.html**, for my presentation. 
-
-The report looks at four  questions:
-
-
-<img src = "images/population_over_time.png">
-
-<img src = "images/number_of_cancer_cases_over_time.png">
-
-<img src = "images/cancer_types.png">
-
-<img src = "images/crude_vs_age_standardised_rate.png">
-
-
-<img src = "images/summary_refs.png">
-
 
 
 
